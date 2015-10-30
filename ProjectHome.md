@@ -1,0 +1,1 @@
+The daily expenditures by different people will be maintained and the monthly balance calculation will also be maintained. This will lessen the work of mess managers. Generally suitable for bachelors living together and sharing the whole expenditure.
